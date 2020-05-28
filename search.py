@@ -16,5 +16,8 @@ if(len(sys.argv) == 3):
                 saida.close()
         arq.close()
 
+    print("Pesquisa concluida, arquivo com resultado encontra-se em: " +
+          path + '/saida.txt')
+
 else:
     print("Falta passar o valor da pesquisa ou o tipo de arquivo após o script!")
