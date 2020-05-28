@@ -1,4 +1,4 @@
-#Buscador de valor em arquivos de texto
+# Buscador de valor em arquivos de texto
 
 Este script busca um determinado valor dentro de uma coleção de arquivos de texto, por exemplo, buscar um nome especifico que pode estar em qualquer arquivo de texto em um determinado diretório.
 
