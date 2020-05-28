@@ -12,7 +12,7 @@ if(len(sys.argv) == 3):
         for txt in arq.readlines():
             if valor in txt:
                 saida = open(path + '/saida.txt', 'w+')
-                saida.writelines(file)
+                saida.writelines(f'Arquivo:\n {file} \n\nLinha:\n {txt}')
                 saida.close()
         arq.close()
 
