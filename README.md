@@ -10,17 +10,17 @@ Para usar o script é muito simples, basta chama-lo em terminal passando o valor
 Conforme pode ser visto na execução acima, o resultado da busca é salva em um novo arquivo de texto no mesmo diretorio em que a busca esta sendo executada chamado de saida.txt. Nele, será gravado o nome do arquivo e a linha de onde o valor foi encontrado. Abaixo veja um exemplo com o resultado da busca:
 
     Arquivo:
- .\arquivo1.txt 
-
-Linha:
- industry. Lorem Ipsum valorbuscado has been the industry's standard dummy
-=========================================
-Arquivo:
- .\arquivo4.txt 
-
-Linha:
- of type and scrambled it to make a type specimen book. It has valorbuscado
-=========================================
-
-
+     .\arquivo1.txt 
+    
+    Linha:
+     industry. Lorem Ipsum valorbuscado has been the industry's standard dummy
+    =========================================
+    Arquivo:
+     .\arquivo4.txt 
+    
+    Linha:
+     of type and scrambled it to make a type specimen book. It has valorbuscado
+    =========================================
+    
+    
 **O script foi desenvolvido utilizando python3, sendo assim, é necessario ter o python3 instalado**
