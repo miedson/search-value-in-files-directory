@@ -23,4 +23,4 @@ Conforme pode ser visto na execução acima, o resultado da busca é salva em um
     =========================================
     
     
-**O script foi desenvolvido utilizando python3, sendo assim, é necessario ter o python3 instalado**
+**O script foi desenvolvido utilizando python3, sendo assim, é necessario ter o mesmo instalado**
