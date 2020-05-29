@@ -5,7 +5,7 @@ Este script busca um determinado valor dentro de uma coleção de arquivos de te
 ## Como usar
 Para usar o script é muito simples, basta chama-lo em terminal passando o valor da pesquisa e a extensão dos arquivos de textos existentes no diretório.
 
-![Exemplo de execução do script](https://i.imgur.com/mjBZghW.png "Exemplo de execução do script")
+![Exemplo de execução do script](https://i.imgur.com/Ixafp2A.png "Exemplo de execução do script")
 
 Conforme pode ser visto na execução acima, o resultado da busca é salva em um novo arquivo de texto no mesmo diretorio em que a busca esta sendo executada chamado de saida.txt. Nele, será gravado o nome do arquivo e a linha de onde o valor foi encontrado. Abaixo veja um exemplo com o resultado da busca:
 
