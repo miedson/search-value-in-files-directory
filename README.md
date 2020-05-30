@@ -7,7 +7,7 @@ Para usar o script é muito simples, basta chama-lo em terminal passando o valor
 
 ![Exemplo de execução do script](https://i.imgur.com/Ixafp2A.png "Exemplo de execução do script")
 
-Como pode ser observado na imagem acima, o resultado da busca é salvo em um novo arquivo de texto no mesmo diretorio em que a busca esta sendo executada, chamado de saida.txt. Nele, será gravado o nome do arquivo e a linha de onde o valor foi encontrado. Abaixo, veja um exemplo com o resultado da busca:
+Como pode ser observado na imagem acima, o resultado da busca é salvo em um novo arquivo de texto no mesmo diretório em que a busca esta sendo executada, chamado de saida.txt. Nele, será gravado o nome do arquivo e a linha de onde o valor foi encontrado. Abaixo, veja um exemplo com o resultado da busca:
 
     Arquivo:
      .\arquivo1.txt 
