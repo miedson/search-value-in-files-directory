@@ -47,7 +47,6 @@ if(len(sys.argv) == 3):
         if os.path.exists(f'{path}saida.txt'):
             os.remove(f'{path}saida.txt')
         insertDateTime('Inicio: ')
-        '''os.walk() lista tudo do diretorio em uma arvore de array separando arquivos de subdiretorios'''
         for files in os.walk(path):
             dirs.append(files[0])
             for file in files[2]:
